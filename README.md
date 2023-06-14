@@ -2,12 +2,12 @@
 - 👋 Hi, I’m @Tiger-Sharks
 - 👀 I’m interested in Blockchain, Ethical Hacking and Application Development along with some other trending topics
 - 🌱 I’m currently learning Blockchain
-- 💞️ I’m looking to collaborate on Open-Source Projects
+- 💞️ I’m looking to collaborate on Open-Source Projects and Research Topics
 - 📫 How to reach me -- parzivalsharks@gmail.com
 
 Just another Tech Enthusiast and a Computer Science Student, looking forward to gain experience and knowledge whilst contributing to the community...
 
-
+<p align="right"> Test </p>
 01010100 01010011
 <br>
 
