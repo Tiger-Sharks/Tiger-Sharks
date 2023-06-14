@@ -5,7 +5,7 @@
 <img align="right" alt="Code" width=400 height=400 arc="https://pbs.twimg.com/media/EbCGIHxUcAIMQcB?format=jpg&name=small">
 -->
 
-# 💫 About Me:
+# 💫 About Me
 - 👋 Hi, I’m @Tiger-Sharks
 - 👀 I’m interested in Blockchain, Ethical Hacking and Application Development along with some other trending topics
 - 🌱 I’m currently learning Blockchain
@@ -24,7 +24,7 @@ Just another Tech Enthusiast and a Computer Science Student, looking forward to 
 -->
 
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
 #### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
