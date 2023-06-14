@@ -3,7 +3,7 @@
 
 <!--
 <img align="right" alt="Code" width=400 height=400 arc="https://pbs.twimg.com/media/EbCGIHxUcAIMQcB?format=jpg&name=small">
--->.
+-->
 
 # 💫 About Me:
 - 👋 Hi, I’m @Tiger-Sharks
