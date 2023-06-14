@@ -1,4 +1,6 @@
-[!MasterHead](https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80)
+![MasterHead](https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80)
+
+<img align="right" alt="Code" width=400 height=400 arc="https://szifon.com/wp-content/uploads/2020/05/IMG_4489-3-700x700.png">
 
 # 💫 About Me:
 - 👋 Hi, I’m @Tiger-Sharks
