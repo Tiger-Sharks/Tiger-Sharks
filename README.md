@@ -1,3 +1,5 @@
+[!MasterHead](https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80)
+
 # 💫 About Me:
 - 👋 Hi, I’m @Tiger-Sharks
 - 👀 I’m interested in Blockchain, Ethical Hacking and Application Development along with some other trending topics
@@ -7,8 +9,7 @@
 
 Just another Tech Enthusiast and a Computer Science Student, looking forward to gain experience and knowledge whilst contributing to the community...
 
-<p align="right"> Test </p>
-01010100 01010011
+<p align="right"> ~ 01010100 01010011</p>
 <br>
 
 
@@ -16,6 +17,7 @@ Just another Tech Enthusiast and a Computer Science Student, looking forward to 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instagram) 
 -->
+
 
 # 💻 Tech Stack:
 
