@@ -7,8 +7,8 @@
 
 Just another Tech Enthusiast and a Computer Science Student, looking forward to gain experience and knowledge whilst contributing to the community...
 
-<align='right'>01010100 01010011</align>
 
+01010100 01010011
 <br>
 
 
