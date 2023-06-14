@@ -12,7 +12,7 @@ Just another Tech Enthusiast and a Computer Science Student, looking forward to 
 <br>
 
 
-<!-->
+<!--
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instagram) 
 -->
