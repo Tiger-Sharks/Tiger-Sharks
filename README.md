@@ -7,14 +7,15 @@
 
 Just another Tech Enthusiast and a Computer Science Student, looking forward to gain experience and knowledge whilst contributing to the community...
 
-01010100 01010011
-
+<align='right'>01010100 01010011</align>
 
 <br>
 
 
+<!-->
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instagram) 
+-->
 
 # 💻 Tech Stack:
 
