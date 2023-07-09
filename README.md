@@ -70,9 +70,11 @@ Just another Tech Enthusiast and a Computer Science Student, looking forward to 
 
 
 # 📊 GitHub Stats:
+<center>
 ![](https://github-readme-stats.vercel.app/api?username=Tiger-Sharks&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tiger-Sharks&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiger-Sharks&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</center>
 
 
 
