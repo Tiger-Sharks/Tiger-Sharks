@@ -22,6 +22,11 @@ Just another Tech Enthusiast and a Computer Science Student, looking forward to 
 -->
 
 
+
+# Holopin Badges
+[![An image of @tigersharks's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tigersharks)](https://holopin.io/@tigersharks)
+
+
 # 💻 Tech Stack
 
 #### Languages
