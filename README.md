@@ -77,11 +77,14 @@ Just another Tech Enthusiast and a Computer Science Student, looking forward to 
 
 <br>
 
+# 🎖️ Holopin Badges
+[![An image of @tigersharks's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tigersharks)](https://holopin.io/@tigersharks)
+
+<br>
+
 # ✍️ Dev Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-# 🎖️ Holopin Badges
-[![An image of @tigersharks's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tigersharks)](https://holopin.io/@tigersharks)
 
 <!---
 Tiger-Sharks/Tiger-Sharks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
