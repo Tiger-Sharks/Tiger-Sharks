@@ -21,12 +21,6 @@ Just another Tech Enthusiast and a Computer Science Student, looking forward to 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instagram) 
 -->
 
-
-
-# Holopin Badges
-[![An image of @tigersharks's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tigersharks)](https://holopin.io/@tigersharks)
-
-
 # 💻 Tech Stack
 
 #### Languages
@@ -85,6 +79,9 @@ Just another Tech Enthusiast and a Computer Science Student, looking forward to 
 
 # ✍️ Dev Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+# 🎖️ Holopin Badges
+[![An image of @tigersharks's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tigersharks)](https://holopin.io/@tigersharks)
 
 <!---
 Tiger-Sharks/Tiger-Sharks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
